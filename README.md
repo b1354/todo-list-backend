@@ -25,7 +25,7 @@
 ## API Documentation
 open `/api` for api documentation
 ```
-https://localhost/api
+https://localhost:3000/api
 ```
 
 ## Configuration
