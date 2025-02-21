@@ -8,12 +8,11 @@ CREATE TABLE `User` (
 
 -- CreateTable
 CREATE TABLE `todo` (
-    `id` VARCHAR(5) NOT NULL,
+    `id` VARCHAR(191) NOT NULL,
     `title` VARCHAR(100) NOT NULL,
     `brand` VARCHAR(30) NOT NULL,
     `platform` VARCHAR(10) NOT NULL,
     `isCompleted` BOOLEAN NULL DEFAULT false,
-    `dueDate` DATETIME NOT NULL,
     `creadedAt` DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3),
     `updatedAt` DATETIME(3) NOT NULL,
 

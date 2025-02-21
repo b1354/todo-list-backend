@@ -22,11 +22,14 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Api Documentation
+## API Documentation
 open `/api` for api documentation
 ```
-/api
+https://localhost/api
 ```
+
+## Configuration
+Dont forget to copy `env-example` and rename it to `.env`
 
 ## Description
 
