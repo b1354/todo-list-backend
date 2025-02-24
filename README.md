@@ -22,6 +22,16 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## API Documentation
+open `/api` for api documentation
+```
+http://localhost:3000/api
+```
+![api-docs](doc/api-doc.png "api-docs")
+
+## Configuration
+Dont forget to copy `env-example` and rename it to `.env`
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
