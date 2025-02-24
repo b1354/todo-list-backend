@@ -25,8 +25,9 @@
 ## API Documentation
 open `/api` for api documentation
 ```
-https://localhost:3000/api
+http://localhost:3000/api
 ```
+![api-docs](doc/api-doc.png "api-docs")
 
 ## Configuration
 Dont forget to copy `env-example` and rename it to `.env`
